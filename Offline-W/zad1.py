@@ -1,4 +1,4 @@
-# Wiktor Kostka
+
 # W algorytmie zastosowano insertion sort dostosowany do potrzeb polecenia. Algorytm polega na tym, że na początku tworzymy pętlę
 # idącą przez każdy element listy odsyłaczowej. Przy każdej iteracji pętli jako zmienną nodetochange oznaczamy aktualny Node, na
 # którym znajduje się pętla, do zmiennej lowestnode natomiast mamy na celu przypisać Node'a o najmniejszej wartości spośród 

@@ -1,4 +1,4 @@
-# Wiktor Kostka
+
 # Działanie algorytmu: Na początku przekształcamy graf z postaci macierzowej na postać listy sąsiedztwa.
 # Każde pole listy sąsiedztwa jest krotką zawierającą trzy informacje: do jakiego wierzchołka prowadzi krawędź, 
 # jaka jest jej długość oraz czy do jej wykonania wymagany jest dwumilowy skok (jump, no_jump).

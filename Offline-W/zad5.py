@@ -1,4 +1,4 @@
-# Wiktor Kostka
+
 # Działanie algorytmu: Na początku zmieniamy postać grafu na listę sąsiedztwa w celu bardziej intuicyjnego działania na grafie.
 # Potem tworzymy nowe krawędzie między wierzchołkami koło osobliwości, których długość wynosi 0.
 # Następnie tworzymy algorytm Dijkstry (tworzymy kolejkę priorytetową, tworzymy tablicę distances gdzie każdy dystans wynosi

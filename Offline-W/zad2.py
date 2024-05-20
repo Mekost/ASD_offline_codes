@@ -1,4 +1,4 @@
-# Wiktor Kostka
+
 # Działanie: Docelowo algorytm robi tylko jedno sortowanie na początku, po czym przy każdej iteracji pętli wykonującej się n-p razy
 # wyrzuca z tablicy pomocniczej element o najmniejszym indeksie z oryginalnej tablicy i dodaje w odpowiednie miejsce kolejny element,
 # przy każdej iteracji pętli dodając do sumy wartość k-tego największego elementu z danej tablicy

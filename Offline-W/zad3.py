@@ -1,4 +1,4 @@
-# Wiktor Kostka
+
 # Działanie algorytmu: Na początku tworzymy dwie tablice: w tablicy xsum_list element o indeksie i ma liczbę elementów mniejszych
 # lub równych od i z tabeli P (przykład: w tablicy P "0" występuje trzy razy, natomiast "1" cztery razy, więc element na indeksie 1
 # w tablicy xsum_list będzie miał wartość 3 + 4 = 7). Tablica ta jest tworzona wyłącznie ze współrzędnych x-owych punktów z tablicy P.

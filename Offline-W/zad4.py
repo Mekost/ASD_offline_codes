@@ -1,4 +1,4 @@
-# Wiktor Kostka
+
 # Działanie algorytmu: Na początku zamieniamy daną w zadaniu listę na listę sąsiedztwa zawierającą przy okazji pułapy przy odpowiednich
 # wierzchołkach. Następnie definiujemy zmienne maxival i minival, które będą przechowywały odpowiednio największy i najmniejszy z pułapów
 # na danej trasie. Potem tworzymy rekurencyjną funkcję dfs_visit, którą będziemy sprawdzali, czy zadana trasa istnieje. Na początku

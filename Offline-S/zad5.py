@@ -1,4 +1,4 @@
-# Stanisław Strojniak
+
 # Algorytm najpierw zamienia graf z zadania na postac list sasiedztwa (A), nastepnie dodaje do kazdego wierzcholka z osobliwosci
 # droge do wszystkich innych wierzcholkow z osobliwosci (dodaje krawedz z kosztem przelotu 0) (B) i na koncu wlacza zwyklego Dijkstre
 # na utworzonym grafie (C)

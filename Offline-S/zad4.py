@@ -1,4 +1,4 @@
-# Stanisław Strojniak
+
 # Algorytm opiera sie na zmodyfikowanym dfsie. Na poczatku zamienia graf na wygodniejsza postac list sasiedztwa,
 # gdzie sasiadujacy wierzcholek jest pierwszym elementem krotki a pulap drugim. Funkcja dfsVisit rekurencyjnie
 # zapisuje odwiedzone juz wierzcholki i ich pulapy
